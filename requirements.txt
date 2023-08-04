@@ -1,4 +1,3 @@
-aiohttp @ file:///home/conda/feedstock_root/build_artifacts/aiohttp_1689804989543/work
 aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1667935791922/work
 alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1684377053240/work
 anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1688651106312/work/dist
