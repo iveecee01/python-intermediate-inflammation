@@ -21,7 +21,7 @@ jobs:
             - name: Install Python dependencies
               run: |
                 python -m pip install --upgrade pip
-                pip3 install -r requirements.txt
+                pip3 install -r requirements.txt --user
 
             - name: Test with PyTest
               run: |
