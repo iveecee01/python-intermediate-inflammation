@@ -38,6 +38,7 @@ comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1679481329611/work
 ConfigUpdater @ file:///home/conda/feedstock_root/build_artifacts/configupdater_1656280637885/work
 connexion @ file:///home/conda/feedstock_root/build_artifacts/connexion_1682603439388/work
 constantly==15.1.0
+coverage==7.2.7
 cron-descriptor @ file:///home/conda/feedstock_root/build_artifacts/cron-descriptor_1687865556314/work
 croniter @ file:///home/conda/feedstock_root/build_artifacts/croniter_1686929181238/work
 cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1669592186537/work
@@ -141,6 +142,7 @@ PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1689721553971/wo
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1685514481738/work
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
 pytest @ file:///home/conda/feedstock_root/build_artifacts/pytest_1687692146518/work
+pytest-cov==4.1.0
 python-daemon @ file:///home/conda/feedstock_root/build_artifacts/python-daemon_1678793454688/work
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 python-nvd3 @ file:///home/conda/feedstock_root/build_artifacts/python-nvd3_1595437239503/work
